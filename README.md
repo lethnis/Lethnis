@@ -1,11 +1,3 @@
-### Hi there 👋
-
-Решено 190 задач на codewars  
-[![codewars](https://www.codewars.com/users/Lethnis/badges/large)](https://www.codewars.com/users/Lethnis)
-
-## [Мои проекты](https://github.com/Lethnis/Demo_Projects)
-
-
 <!--
 **Lethnis/Lethnis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
